@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColonistsHouses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColonistsJobs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColonistsRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColonistsTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DependentsRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InforForReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="list6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PilotsManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PilotsTripsEjets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
